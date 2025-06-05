@@ -1,0 +1,31 @@
+*{
+    scroll-behavior: smooth;
+}
+.jumbotron{
+    background-color: #FAFFCA;
+    height: 80vh;
+}
+.jumbotron .jumbtotron-content{
+    margin: 90px auto;
+}
+h1,h2,h3,h4,h5,h6{
+      font-family: "Bebas Neue", sans-serif;
+}
+.jumbotron img{
+    border-radius: 100%;
+    width: 20%;
+    height: 40vh;
+    box-shadow: 3px 2px 5px 3px rgba(255,255,255,0.62) ;
+-webkit-box-shadow: 3px 2px 5px 3px rgba(255,255,255,0.62) ;
+-moz-box-shadow: 3px 2px 5px 3px rgba(255,255,255,0.62) ;
+}
+
+.about-text{
+    width: 75%;
+}
+.about-text p{
+    text-align: justify;
+    font-size: 16px;
+      font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
